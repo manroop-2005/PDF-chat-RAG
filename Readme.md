@@ -225,4 +225,4 @@ Services:
 - node --check server/index.js
 - node --check server/worker.js
 - pnpm exec tsc --noEmit (inside client)
-- pnpm build (root or client)
+- pnpm build (root or client) 
