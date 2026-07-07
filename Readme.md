@@ -1,5 +1,5 @@
 # PDF RAG Workspace   
-
+ 
 A production-style Retrieval-Augmented Generation workspace for PDF documents.
 
 This project lets users upload PDFs, index them asynchronously, and ask grounded questions with source-backed answers.
