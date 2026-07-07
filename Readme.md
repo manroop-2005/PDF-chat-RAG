@@ -1,4 +1,4 @@
-# PDF RAG Workspace  
+# PDF RAG Workspace   
 
 A production-style Retrieval-Augmented Generation workspace for PDF documents.
 
